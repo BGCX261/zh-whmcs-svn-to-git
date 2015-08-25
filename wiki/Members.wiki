@@ -1,0 +1,36 @@
+#labels Featured
+#参与人员名单
+
+= 成员 =
+
+lsylsy2(lsylsy2 at gmail.com)：项目创建者；
+
+yupeng1990(yupeng1990 at gmail.com)，提交最新版5.0.2, 5.0.3汉化，多谢！
+
+ruizkor 提交、参与部分翻译
+
+= 感谢 =
+
+以下为为本项目提出过建议、支持等的名单，非常感谢！
+
+= Details =
+
+小牧：后台原版汉化提供者
+
+古风飘雨(主机迷站长)：参考了他的原版汉化
+
+walkman660(来自hostloc)，提交Bug与建议
+
+jashbbq123(jashbbq123 at gmail.com)，提交[http://code.google.com/p/zh-whmcs/issues/detail?id=3 补丁]
+
+master at chinac.net，提交[http://code.google.com/p/zh-whmcs/issues/detail?id=4 补丁]
+
+colorsyuan(colorsyuan at gmail.com)，提交[http://code.google.com/p/zh-whmcs/issues/detail?id=5 补丁]
+
+service%usassh.com at gtempaccount.com，补充[http://code.google.com/p/zh-whmcs/issues/detail?id=3 另一个补丁]
+
+nworou(nworou at gmail.com)，提交[http://code.google.com/p/zh-whmcs/issues/detail?id=5 补丁]和[http://code.google.com/p/zh-whmcs/issues/detail?id=6 补丁]
+
+Bendy(67052 at qq.com)，支付宝插件提供者
+
+gdsz51(web at 66ftp.com)，提供5.1.2版部分翻译
